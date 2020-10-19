@@ -1,0 +1,1 @@
+showcase for https://github.com/rharter/auto-value-moshi/issues/126
